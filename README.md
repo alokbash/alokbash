@@ -8,7 +8,7 @@ I create:
 
 # What I did before
 
-I was a DITA writer for many years before moving into docs-as-code workflows. I've spent 15+ years in technical writing, transitioning from structured authoring (XML/DITA) to modern docs-as-code environments, collaborating closely with engineering teams.
+I was a DITA writer for many years before moving into docs-as-code workflows. I've spent 20+ years in technical writing, transitioning from structured authoring (XML/DITA) to modern docs-as-code environments, collaborating closely with engineering teams.
 
 Recent projects:
 
