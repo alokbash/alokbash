@@ -18,7 +18,7 @@ Recent projects:
 Sample projects:
 
 * **Swagger UI** - Swagger API sample project [Bookstore API](https://swagger-sample.netlify.app/)
-* **Docusaurus API** - Docusaurus API sample project [Bookstore API](https://apaleo.dev).
+* **Docusaurus API** - Docusaurus API sample project [Bookstore API]().
 
 Earlier experience across Analytics, CRM, SAP, telecom, and healthcare platforms at Salesforce, SAS, Savi, Amdocs, Fujitsu, Syntel, GSSL, and Lionbridge.
 
