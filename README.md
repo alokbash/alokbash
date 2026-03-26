@@ -3,7 +3,7 @@
 I create:
 
 * Developer-focused documentation that empowers teams to ship faster.
-* API and SDK documentation that reduces support requests by 30%.
+* API and SDK documentation that reduces support requests.
 * Onboarding experiences that get developers productive in minutes.
 
 # What I did before
